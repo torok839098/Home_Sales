@@ -13,4 +13,3 @@ What is the average price of a home for each year the home was built, that has t
 
 What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
-## Conclusions:
